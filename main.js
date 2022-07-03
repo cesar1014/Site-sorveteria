@@ -50,8 +50,8 @@ const swiper = new Swiper('.swiper-container', {
 /* ScrollReveal: Mostrar elementos quando der scroll na página */
 const scrollReveal = ScrollReveal({
   origin: 'top',
-  distance: '15px',
-  duration: 300,
+  distance: '20px',
+  duration: 400,
   reset: true
 })
 
